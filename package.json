@@ -4,6 +4,7 @@
   "description": "React application with two example pages for be included in a single-spa application as registered app.",
   "main": "dist/single-spa-react-app.js",
   "dependencies": {
+    "eslint-config-react-app": "^7.0.1",
     "react": "16.12.0",
     "react-dom": "16.12.0",
     "react-router-dom": "5.1.2",
@@ -53,7 +54,6 @@
     "eslint-plugin-import": "2.20.1",
     "eslint-plugin-react": "7.18.3",
     "html-loader": "0.5.5",
-    "node-sass": "4.14.1",
     "path": "0.12.7",
     "sass-loader": "8.0.2",
     "style-loader": "1.1.3",
